@@ -64,7 +64,23 @@ EcoCheck is a full-stack web application that allows users to monitor and reduce
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repo
+Follow these steps to run the project locally.
+
+### 1. Clone the Repository and Install Dependencies
 ```bash
-git clone 
-cd ecocheck
+git clone <your-repo-url>
+cd Hack4Bengal
+
+# Install frontend dependencies
+npm install
+npm run dev
+
+# Install backend dependencies and start the server
+cd server
+npm install
+nodemon server.js
+
+# Install Python API dependencies and start the model
+cd python-api
+python main.py
+
