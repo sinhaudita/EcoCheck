@@ -57,8 +57,6 @@ EcoCheck is a full-stack web application that allows users to monitor and reduce
 -  Carbon Tracker Map for regional comparison
 -  Carbon History Timeline to visualize progress
 -  Fine-tuned Chatbot with more personalized responses
--  Gamification – badges & achievements for greener habits
--  OAuth Integration for secure logins
 
 ---
 
