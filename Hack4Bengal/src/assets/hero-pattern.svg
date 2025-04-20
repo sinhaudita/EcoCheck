@@ -1,0 +1,25 @@
+
+<svg width="1440" height="800" viewBox="0 0 1440 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="leafGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8BC34A" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#4CAF50" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,160L48,160C96,160,192,160,288,186.7C384,213,480,267,576,272C672,277,768,235,864,202.7C960,171,1056,149,1152,149.3C1248,149,1344,171,1392,181.3L1440,192L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z" fill="url(#leafGrad)"/>
+  <g opacity="0.3">
+    <circle cx="200" cy="300" r="8" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="400" cy="180" r="5" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="600" cy="320" r="7" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="800" cy="240" r="6" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="1000" cy="350" r="8" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="1200" cy="200" r="5" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="1350" cy="290" r="7" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="300" cy="400" r="6" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="500" cy="280" r="8" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="700" cy="420" r="5" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="900" cy="340" r="7" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="1100" cy="450" r="6" fill="#8BC34A" opacity="0.3"/>
+    <circle cx="1300" cy="380" r="8" fill="#8BC34A" opacity="0.3"/>
+  </g>
+</svg>
